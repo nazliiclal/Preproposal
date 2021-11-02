@@ -10,7 +10,7 @@ input a number, (1 to 51 minimum or 151 maximum) then we will display the inform
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-Sofia Cordero and Matt Burkhimer
+Sofia Cordero and Matt Burkhimer.
 
 
 
@@ -18,3 +18,4 @@ Sofia Cordero and Matt Burkhimer
 
 Is this idea ok for the final project, do we need to add anything else?  
 
+  
